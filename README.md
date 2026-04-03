@@ -65,3 +65,12 @@ fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
     return vec4f( out.x, out.y, out.z, 1. );
 }
 ```
+
+# Assignment 3 - WebGPU Intro:
+
+Repo Link:
+https://github.com/ALTrilling/motion-extraction-webgpu
+The README.md there has the explanation.
+
+Website Link:
+https://altrilling.github.io/motion-extraction-webgpu/
