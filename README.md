@@ -74,3 +74,11 @@ The README.md there has the explanation.
 
 Website Link:
 https://altrilling.github.io/motion-extraction-webgpu/
+
+# Assignment 4 - Reaction Diffusion:
+Repo link:
+https://github.com/ALTrilling/reaction-diffusion-webgpu
+Explanation:
+https://github.com/ALTrilling/reaction-diffusion-webgpu/blob/main/README.md
+Website Link:
+https://altrilling.github.io/reaction-diffusion-webgpu/
