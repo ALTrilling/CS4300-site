@@ -82,3 +82,12 @@ Explanation:
 https://github.com/ALTrilling/reaction-diffusion-webgpu/blob/main/README.md
 Website Link:
 https://altrilling.github.io/reaction-diffusion-webgpu/
+
+# Assignment 5 - Particles
+I finished working on the assignment like a day ago, I just kinda forgor to submit. Sorry :p
+Repo link:
+https://github.com/ALTrilling/aizawa-attractor
+Explanation link:
+https://github.com/ALTrilling/aizawa-attractor/blob/main/CS4300%20-%20HW.pdf
+Website link:
+https://altrilling.github.io/aizawa-attractor/
