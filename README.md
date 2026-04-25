@@ -91,3 +91,7 @@ Explanation link:
 https://github.com/ALTrilling/aizawa-attractor/blob/main/CS4300%20-%20HW.pdf
 Website link:
 https://altrilling.github.io/aizawa-attractor/
+
+# Assignment 6 - Langton's Ant
+https://github.com/ALTrilling/multiple_langton_ants
+https://altrilling.github.io/multiple_langton_ants/
