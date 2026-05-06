@@ -95,3 +95,7 @@ https://altrilling.github.io/aizawa-attractor/
 # Assignment 6 - Langton's Ant
 https://github.com/ALTrilling/multiple_langton_ants
 https://altrilling.github.io/multiple_langton_ants/
+
+# Final. WebGPU Spline CA
+https://github.com/ALTrilling/CS4300-webgpu-ca
+https://altrilling.github.io/CS4300-webgpu-ca/
