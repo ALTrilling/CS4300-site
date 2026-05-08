@@ -70,6 +70,7 @@ fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
 
 Repo Link:
 https://github.com/ALTrilling/motion-extraction-webgpu
+
 The README.md there has the explanation.
 
 Website Link:
@@ -78,25 +79,33 @@ https://altrilling.github.io/motion-extraction-webgpu/
 # Assignment 4 - Reaction Diffusion:
 Repo link:
 https://github.com/ALTrilling/reaction-diffusion-webgpu
+
 Explanation:
 https://github.com/ALTrilling/reaction-diffusion-webgpu/blob/main/README.md
+
 Website Link:
 https://altrilling.github.io/reaction-diffusion-webgpu/
 
 # Assignment 5 - Particles
 I finished working on the assignment like a day ago, I just kinda forgor to submit. Sorry :p
+
 Repo link:
 https://github.com/ALTrilling/aizawa-attractor
+
 Explanation link:
 https://github.com/ALTrilling/aizawa-attractor/blob/main/CS4300%20-%20HW.pdf
+
 Website link:
 https://altrilling.github.io/aizawa-attractor/
 
 # Assignment 6 - Langton's Ant
 https://github.com/ALTrilling/multiple_langton_ants
+
 https://altrilling.github.io/multiple_langton_ants/
 
 # Final. WebGPU Spline CA
 https://github.com/ALTrilling/CS4300-webgpu-ca (this also has the writeup)
+
 [Google Drive video link](https://drive.google.com/file/d/1fY5zdFwI-Zya8Zk22aAE26Jk_OZPBARL/view?usp=sharing). (Not youtube b/c I was worried about compression making it unwatchable)
+
 https://altrilling.github.io/CS4300-webgpu-ca/
