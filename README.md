@@ -97,5 +97,6 @@ https://github.com/ALTrilling/multiple_langton_ants
 https://altrilling.github.io/multiple_langton_ants/
 
 # Final. WebGPU Spline CA
-https://github.com/ALTrilling/CS4300-webgpu-ca
+https://github.com/ALTrilling/CS4300-webgpu-ca (this also has the writeup)
+[Google Drive video link](https://drive.google.com/file/d/1fY5zdFwI-Zya8Zk22aAE26Jk_OZPBARL/view?usp=sharing). (Not youtube b/c I was worried about compression making it unwatchable)
 https://altrilling.github.io/CS4300-webgpu-ca/
